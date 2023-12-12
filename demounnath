@@ -1,2 +1,1 @@
-import matplotlib .pyplt as m
-import pandas as pd
+import matplotlib .pyplt as md
