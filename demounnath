@@ -1,2 +1,2 @@
 import matplotlib .pyplt as m
-import pandas as pa
+import pandas as pd
